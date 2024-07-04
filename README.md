@@ -9,14 +9,14 @@ Prueba Tecnica
 ## Instalacion
 Para descargar el proyecto se utilizara Git
 ```
-git clone https://github.com/rlealm8/demo-vehicle.git
+git clone https://github.com/rlealm8/vehicle.git
 ```
 
 **Importante:** El desarrollo de esta prueba se encuentra en la rama develop
 
 ## API Rest
 
-En la carpeta resources se encuentra la collection del postman de los servicios rest 
+En la carpeta resources se encuentra la collection del postman de los servicios rest (Demo Vehicle.postman_collection.json)
 
 ###Metodos
 * **Save Vehicle:** Para registrar un vehiculo
