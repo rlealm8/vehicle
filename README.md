@@ -12,7 +12,7 @@ Para descargar el proyecto se utilizara Git
 git clone https://github.com/rlealm8/demo-vehicle.git
 ```
 
-**Importante:** El desarrollo de esta prueba se encuentra en la rama feature-develop
+**Importante:** El desarrollo de esta prueba se encuentra en la rama develop
 
 ## API Rest
 
